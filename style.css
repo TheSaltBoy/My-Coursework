@@ -1,0 +1,106 @@
+html {
+    padding: 0;
+    margin-top: 10vh;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 0.8em;
+}
+
+h3 {
+	font-style: italic;
+	font-size: 1.5em;
+}
+
+h1, h2, h3 {
+	line-height: 0;
+}
+
+p {
+}
+
+.baskerville .dropcap::first-letter {
+    color: red;
+    float: left;
+    font-size: 5em;
+    line-height: 1em;
+    margin-top: 3px;
+    margin-bottom: -5px;
+}
+
+blockquote {
+	hanging-punctuation: first;
+	text-indent: -0.5em;
+    margin: auto;
+    color: grey;
+}
+
+cite {
+	display: block;
+	margin-top: 10px;
+	margin-left: 10px;
+	color: grey;
+	font-size: 0.8em;
+}
+
+cite::before {
+content: "—"
+}
+
+.divider {
+    height: 1px;
+    border-bottom: 1px solid red;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.baskerville {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.opensans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.arvo {
+    font-family: 'Arvo', sans-serif;
+}
+
+.intro {
+	margin-top: 5vh;
+	font-size: 1.1em;
+	margin-bottom: 3vh;
+}
+.container {
+	margin-top: -70px;
+	margin-bottom: 100px;
+}
+
+#box {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+	background-image: url(logo.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	border-radius: 40%;
+	margin: auto;
+	display: block;
+	position: relative;
+}
+
+#hiddentext {
+	font-family: 'Open Sans', sans-serif;
+	display: none;
+	position: absolute;
+}
+
+#box:hover + #hiddentext {
+    display:block;
+}
