@@ -7,6 +7,7 @@ IXD coursework assignments
 3. https://github.com/TheSaltBoy/My-Coursework/blob/master/history/history3.html
 * HTML List: https://github.com/TheSaltBoy/My-Coursework/blob/master/history/history-list.html
 * HTML Table: https://github.com/TheSaltBoy/My-Coursework/blob/master/history/history-table.html
+* https://github.com/TheSaltBoy/My-Coursework/blob/master/history/index.html
 
 # Designer Essay
 https://github.com/TheSaltBoy/My-Coursework/tree/master/essay
