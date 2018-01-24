@@ -11,3 +11,6 @@ IXD coursework assignments
 
 # Designer Essay
 https://github.com/TheSaltBoy/My-Coursework/tree/master/essay
+
+# Baskerville HTML & CSS Excercise
+* https://github.com/TheSaltBoy/My-Coursework/blob/master/baskerville/baskerville.html
