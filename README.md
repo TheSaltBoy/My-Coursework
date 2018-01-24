@@ -13,4 +13,4 @@ IXD coursework assignments
 https://github.com/TheSaltBoy/My-Coursework/essay
 
 # Baskervile HTML & CSS Exercise
-* https://thesaltboy.github.io/My-Coursework/baskerville/baskerville.html
+* http://thesaltboyis.cool/My-Coursework/baskerville/baskerville.html
