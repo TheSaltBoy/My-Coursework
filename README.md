@@ -7,7 +7,7 @@ IXD coursework assignments
 3. http://thesaltboyis.cool/My-Coursework/history/history3.html
 * HTML List: http://thesaltboyis.cool/My-Coursework/history/history-list.html
 * HTML Table: http://thesaltboyis.cool/My-Coursework/history/history-table.html
-* http://thesaltboyis.cool/My-Coursework/history/index.html
+* CSS Typography excercise http://thesaltboyis.cool/My-Coursework/history/index.html
 
 # Designer Essay
 http://thesaltboyis.cool/My-Coursework/essay/jan.html
