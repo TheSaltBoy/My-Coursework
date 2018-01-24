@@ -10,7 +10,7 @@ IXD coursework assignments
 * http://thesaltboyis.cool/My-Coursework/history/index.html
 
 # Designer Essay
-http://thesaltboyis.cool/My-Coursework/essay
+http://thesaltboyis.cool/My-Coursework/essay/jan.html
 
 # Baskervile HTML & CSS Exercise
 * http://thesaltboyis.cool/My-Coursework/baskerville/baskerville.html
